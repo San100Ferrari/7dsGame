@@ -9,3 +9,4 @@ A faire :
 - cgu
 - ajout de la page all
 - les form et php
+- upgrade du footer
