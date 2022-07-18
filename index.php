@@ -56,7 +56,7 @@
             <div class="heros-generator">
                 <h2 class="heros-day">Découvrez le héros du jour</h2>
                 <!--Insert form or button and a hero card appear-->
-                <h2 class="heros-all"><a>Découvrez tous les héros et leurs capcités</a></h2>
+                
                 <!--Link to another page (listing heros)-->
             </div>
             <div class="heros-search">
@@ -66,7 +66,8 @@
         </section>
     </main>
     <footer>
-        <div class="connexion-admin"></div>
+        <h2 class="heros-all"><a>Découvrez tous les héros et leurs capcités</a></h2>
+        <div class="connexion-admin"><button>Connect</button></div>
     </footer>
 </body>
 

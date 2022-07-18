@@ -10,3 +10,4 @@ A faire :
 - ajout de la page all
 - les form et php
 - upgrade du footer
+- add des font-family
